@@ -7,7 +7,6 @@
 - ⚡  Fun fact: I love Drawing Art and Learning Foreign languages
 
 
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rohitsainier)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
