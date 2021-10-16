@@ -1,7 +1,7 @@
 ### Hi there, I'm Rohit Saini
 
 - 🔭  I create content for iOS
-- 🌱  I’m currently learning Bash && SwiftUI
+- 🌱  I’m currently learning Bash,Go && SwiftUI
 - 👯  I’m looking to collaborate with other content creators
 - 🥅  2021 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love Drawing Art and Learning Foreign languages
